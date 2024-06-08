@@ -1,6 +1,6 @@
 ## Smart Password Generator 
 This code provides a functional GUI-based smart password generator that combines user input with randomness to create a password. 
-### Explanation of Key Components
+### Key Components
 **Imports and Library Setup:**
 - tkinter, customtkinter: Libraries for creating the GUI.
 - random, string: Libraries for generating the password.<br/>
